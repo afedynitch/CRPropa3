@@ -24,3 +24,5 @@ cmake/CMakeFiles/
 *.dat
 *.ipynb_checkpoints
 *.idea
+Michael*
+.vscode/settings.json
